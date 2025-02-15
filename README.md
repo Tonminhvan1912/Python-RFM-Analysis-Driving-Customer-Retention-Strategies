@@ -87,3 +87,31 @@ After completing the calculation of the Recency - Frequency - Monetary variables
 ![Image](https://github.com/user-attachments/assets/879dbd30-4472-48c6-a205-3bb869b9dc39)
 
 Now, all CustomerIDs are segmented according to RFM analysis
+
+## **IV. VISUALIZATION**
+
+### 1. **Overall the distribution of the RFM Modelling**
+
+![Image](https://github.com/user-attachments/assets/c77ac509-4627-407c-a816-2d86f9c0016e)
+
+![Image](https://github.com/user-attachments/assets/5cd5a5ac-fb7f-4b34-9858-b0d21ad89a2d)
+
+![Image](https://github.com/user-attachments/assets/84f685c5-4d44-4f74-9206-222f77a479a3)
+
+![Image](https://github.com/user-attachments/assets/67909017-69cd-4849-938b-0671b35f4491)
+
+![Image](https://github.com/user-attachments/assets/00ac3ae5-b450-4336-bdaf-f6405b76780e)
+
+![Image](https://github.com/user-attachments/assets/16aaec5f-0668-4db7-8325-b6b52f815a76)
+
+**INSIGHTS**
+
+| **Segment** | **Insights** |
+| --- | --- |
+| **Champion Customer** | With the number of customers in this group accounting for 16% and their spending accounting for 39%, this group consists of customers who have recently transacted, spend the most, and purchase frequently. The business needs to implement loyalty campaigns with special and personalized values. Additionally, the business can suggest high-value Christmas/Tet combos for this group based on their historical purchase data. |
+| **Loyal and Potential Loyalist Customer** | With the number of customers in these two groups accounting for 23% and their spending also accounting for 23%, this group consists of customers who have recently spent at a moderately high level, with frequent or at least more than one purchase. To enhance the cart value of this group, the business can propose Christmas or Tet gift programs when purchases reach a certain value. |
+| **New Customers & Promising Customer** | With the number of customers in these two groups accounting for 11% and their spending accounting for 4%, this group consists of the most recent new customers, with low purchasing power and infrequent purchases, or significant purchasing power but also infrequent purchases. The business needs to implement campaigns that create goodwill from the outset to retain customers. Sending holiday greetings during Christmas or Tet, along with offering a voucher for their next purchase, can stimulate buying interest. Additionally, actively interacting and making suggestions based on historical choices will help retain customers. |
+| **Need Attention, At Risk, Cannot Lose Them Customer** | With the number of customers in these three groups accounting for 17% and their spending accounting for 23%, this group consists of customers who have not made recent purchases; however, they previously had a relatively high cart value and frequent purchase frequency. This is a group of customers that the business cannot afford to lose. There needs to be a campaign to identify the reasons for customer departure and to propose solutions regarding quality and service. |
+| **About to Sleep, Hibernating Customers, Lost Customers** | With the number of customers in these three groups accounting for 31% and their spending accounting for 10%, this group consists of customers who have not made purchases in a long time, have weak purchasing power, and infrequent purchase frequency. The situation indicates that the business should be somewhat alarmed due to the high number of customers in this segment. The business can use email or cold calls to survey opinions and propose discount programs to attract customers back. However, this is very challenging; during this phase, the business should prioritize the Champion segment more. |
+
+=> **During the Christmas/Tet holiday**, the business should focus on the **Monetary metric**, as this is the time when customers are more willing to spend compared to other times of the year, due to their need to shop for Tet celebrations and gifts. The business can propose medium-to-high value combos and suggest gifts for orders that meet the specified target value.
