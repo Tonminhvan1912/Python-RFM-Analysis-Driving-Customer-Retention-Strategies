@@ -55,3 +55,35 @@ In this section, I outline 5 steps for EDA:
 5. Handle duplicates
 
 Please check the attached code file for more details.
+
+## **III. DATA PROCESSING**
+
+![Image](https://github.com/user-attachments/assets/670a60be-833f-4a5d-9f75-1413d313dd92)
+
+![Image](https://github.com/user-attachments/assets/86da71f1-16c3-475d-838a-12bf887a4970)
+
+![Image](https://github.com/user-attachments/assets/546ef703-4280-4bc0-9fbf-1b1e3f1af61d)
+
+![Image](https://github.com/user-attachments/assets/ffceeb97-3082-4951-8854-1681ef274df9)
+
+After completing the calculation of the Recency - Frequency - Monetary variables, we will detect outliers and process them to ensure more accurate data.
+
+![Image](https://github.com/user-attachments/assets/05bd8a2a-6af5-4560-90a1-4c6b857859fe)
+
+![Image](https://github.com/user-attachments/assets/f0e591a8-b583-416a-ae50-195d25c709f8)
+
+![Image](https://github.com/user-attachments/assets/baef674b-5dd8-4487-9f83-4bc23206c122)
+
+![Image](https://github.com/user-attachments/assets/cd6c8ad4-c296-4496-9504-f3830e398d4b)
+
+![Image](https://github.com/user-attachments/assets/22762e3b-8338-41db-a467-18b4e066e58c)
+
+![Image](https://github.com/user-attachments/assets/9b074e7e-b8cd-43d4-bc6e-0cb484357397)
+
+![Image](https://github.com/user-attachments/assets/3dc7c7d9-4340-4b7c-9d72-85915da63816)
+
+![Image](https://github.com/user-attachments/assets/3ec7f706-e8f4-43b9-9998-d9b69b6ba351)
+
+![Image](https://github.com/user-attachments/assets/879dbd30-4472-48c6-a205-3bb869b9dc39)
+
+Now, all CustomerIDs are segmented according to RFM analysis
