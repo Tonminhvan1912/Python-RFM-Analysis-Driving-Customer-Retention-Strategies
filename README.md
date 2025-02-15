@@ -36,3 +36,10 @@ The Marketing Director has also proposed using the RFM model. Given the massive 
 | UnitPrice | Measure |
 | CustomerID | Dimension |
 | Country | Dimension |
+
+**Table:** segmentation
+
+| **Field** | **Type of column** |
+| --- | --- |
+| Segment | Dimension |
+| RFM Score | Measure |
