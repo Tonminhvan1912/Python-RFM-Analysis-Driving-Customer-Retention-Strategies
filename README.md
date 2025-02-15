@@ -43,3 +43,15 @@ The Marketing Director has also proposed using the RFM model. Given the massive 
 | --- | --- |
 | Segment | Dimension |
 | RFM Score | Measure |
+
+## **II. EXPLORATORY DATA ANALYSIS**
+
+In this section, I outline 5 steps for EDA:
+
+1. Descriptive statistics
+2. Check data types
+3. Handle incorrect values
+4. Handle missing values
+5. Handle duplicates
+
+Please check the attached code file for more details.
