@@ -90,7 +90,7 @@ Now, all CustomerIDs are segmented according to RFM analysis
 
 ## **IV. VISUALIZATION**
 
-### 1. **Overall the distribution of the RFM Modelling**
+### **1. Overall the distribution of the RFM Modelling**
 
 ![Image](https://github.com/user-attachments/assets/c77ac509-4627-407c-a816-2d86f9c0016e)
 
@@ -115,3 +115,44 @@ Now, all CustomerIDs are segmented according to RFM analysis
 | **About to Sleep, Hibernating Customers, Lost Customers** | With the number of customers in these three groups accounting for 31% and their spending accounting for 10%, this group consists of customers who have not made purchases in a long time, have weak purchasing power, and infrequent purchase frequency. The situation indicates that the business should be somewhat alarmed due to the high number of customers in this segment. The business can use email or cold calls to survey opinions and propose discount programs to attract customers back. However, this is very challenging; during this phase, the business should prioritize the Champion segment more. |
 
 => **During the Christmas/Tet holiday**, the business should focus on the **Monetary metric**, as this is the time when customers are more willing to spend compared to other times of the year, due to their need to shop for Tet celebrations and gifts. The business can propose medium-to-high value combos and suggest gifts for orders that meet the specified target value.
+
+### **2. Distribution of RFM Modelling by time**
+
+![Image](https://github.com/user-attachments/assets/9dce1ecf-9dc3-4c4f-99e8-7e8a326a620b)
+
+![Image](https://github.com/user-attachments/assets/c65ff8b3-aaf1-480c-8b69-f3ce4f870dd0)
+
+![Image](https://github.com/user-attachments/assets/8bb57e78-e26b-4c5c-a5a0-59e2804e4041)
+
+![Image](https://github.com/user-attachments/assets/775c3df5-7085-4252-949a-21bd6baee9d3)
+
+**INSIGHTS**
+
+**Strong Growth in High-Value Customer Segments (Champions, Loyal, Potential Loyalist)**
+
+- **Champions group** showed strong month-over-month growth. Notably, the total spending from this group significantly outpaced its numerical growth, indicating that these customers had exceptionally high basket values. In November and December 2011, revenue from this group accounted for approximately 80%-90% of total sales, further solidifying their importance to the business.
+- **Loyal group** steadily increased throughout the year but saw a sharp decline in both customer count and spending in the last two months. This decline could be due to two possible factors: a positive scenario where many Loyal customers upgraded to Champions, or a riskier scenario where some customers stopped purchasing and fell into lower-tier segments. Given the substantial increase in *Champions* and the overall decrease in lower-tier groups, the first scenario seems more likely.
+- **Potential Loyalist and Promising groups** exhibited steady growth until the end of the year, a positive sign of customer engagement and progression through the loyalty tiers.
+
+**Signs of New Customer Growth and Potential Risks**
+
+- **New Customers group** started appearing significantly in November 2011, indicating a successful customer acquisition effort.
+- **Lower-tier customer groups** declined gradually over the months, with some groups reaching minimal proportions by the year’s end. However, the presence of the **At Risk group** from December 2010 to September 2012 suggests that customer retention challenges persisted. While the total contribution of this group to revenue remained significant and their numbers eventually declined by year-end, their presence highlights an area for improvement to prevent future churn spikes.
+
+**RECOMMENDED STRATEGIES**
+
+- **Loyalty Enhancement:** Develop tailored rewards to keep *Champions* engaged and incentivize high-value spending.
+- **Onboarding & Engagement:** Implement structured engagement plans for *New Customers* to increase their chances of moving into *Loyal* or *Champions* groups.
+- **Risk Mitigation:** Use predictive analytics to identify early warning signs of at-risk customers and proactively re-engage them before churn occurs.
+
+### **3. Distribution of RFM Modelling by location**
+
+![Image](https://github.com/user-attachments/assets/82649e14-947d-40de-987f-898f4e2784e7)
+
+![Image](https://github.com/user-attachments/assets/d0a42114-ca80-47a5-b4c7-6e491642a50b)
+
+![Image](https://github.com/user-attachments/assets/3f6d0605-d6b1-49c3-954a-dde345f73639)
+
+![Image](https://github.com/user-attachments/assets/dbde78c3-1601-42c0-9bf9-c8eea72f7bb0)
+
+Through the two charts showing the distribution of customer numbers and spending levels of segments based on location, we can see that **90% of customers are from the United Kingdom**. Therefore, **we can choose this as the primary area to enhance growth strategies.**
