@@ -21,3 +21,18 @@ SuperStore is a global retail company with a large customer base. On the occasio
 However, the Marketing Department has not yet categorized this year's customers due to the large dataset, making it impossible to process manually as in previous years. Thus, they are seeking assistance from the Data Analysis Department to implement a customer segmentation classification task in order to execute tailored marketing programs for each customer group.
 
 The Marketing Director has also proposed using the RFM model. Given the massive amount of data, they hope the Data Department can build a workflow for evaluating segmentation using Python programming.
+
+## **II. DATA DICTIONARY**
+
+**Table:** ecommerce retail
+
+| **Field** | **Type of column** |
+| --- | --- |
+| InvoiceNo | Dimension |
+| Stockcode | Dimension |
+| Description | Dimension |
+| Quantity | Measure |
+| InvoiceDate | Measure |
+| UnitPrice | Measure |
+| CustomerID | Dimension |
+| Country | Dimension |
