@@ -54,7 +54,7 @@ In this section, I outline 5 steps for EDA:
 4. Handle missing values
 5. Handle duplicates
 
-Please check the attached code file for more details.
+Please check the [attached code file](https://github.com/Tonminhvan1912/Python-RFM-Analysis-Driving-Customer-Retention-Strategies/blob/main/%5BPython%5D%20RFM%20Analysis%20Driving%20Customer%20Retention%20Strategies.ipynb) for more details.
 
 ## **III. DATA PROCESSING**
 
